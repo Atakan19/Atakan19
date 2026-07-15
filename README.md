@@ -32,26 +32,22 @@ A modern developer workspace for planning, organizing and building software proj
 ## 🛠 Tech Stack
 
 **Languages**
-
 - Python
 - TypeScript
 - SQL
 
 **Backend**
-
 - FastAPI
 - SQLAlchemy
 - PostgreSQL
 - Redis
 
 **Frontend**
-
 - Next.js
 - React
 - Tailwind CSS
 
 **DevOps**
-
 - Docker
 - Kubernetes
 - GitHub Actions
@@ -60,7 +56,6 @@ A modern developer workspace for planning, organizing and building software proj
 ---
 
 ## 📌 Currently Learning
-
 - Distributed Systems
 - Software Architecture
 - Financial Engineering
@@ -69,5 +64,4 @@ A modern developer workspace for planning, organizing and building software proj
 ---
 
 ## 📫 Connect with me
-
 - LinkedIn: https://linkedin.com/in/atakan-gunel
