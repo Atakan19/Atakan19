@@ -1,0 +1,79 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1000"
+  height="245"
+  viewBox="0 0 1000 245"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Atakan Günel Tech Stack</title>
+  <desc id="description">
+    Languages, backend, frontend, DevOps and cloud technologies, and development tools.
+  </desc>
+
+  <style>
+    .heading {
+      fill: #f0f6fc;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 18px;
+      font-weight: 600;
+      text-anchor: middle;
+    }
+
+    .separator {
+      stroke: #30363d;
+      stroke-width: 1;
+    }
+  </style>
+
+  <!-- Transparent background -->
+  <rect width="1000" height="245" fill="transparent"/>
+
+  <!-- Vertical separators only -->
+  <line class="separator" x1="200" y1="16" x2="200" y2="229"/>
+  <line class="separator" x1="400" y1="16" x2="400" y2="229"/>
+  <line class="separator" x1="600" y1="16" x2="600" y2="229"/>
+  <line class="separator" x1="800" y1="16" x2="800" y2="229"/>
+
+  <!-- Headings -->
+  <text class="heading" x="100" y="38">Languages</text>
+  <text class="heading" x="300" y="38">Backend</text>
+  <text class="heading" x="500" y="38">Frontend</text>
+  <text class="heading" x="700" y="38">DevOps &amp; Cloud</text>
+  <text class="heading" x="900" y="38">Tools</text>
+
+  <!-- Languages: 2 × 2 -->
+  <image href="https://skillicons.dev/icons?i=python&amp;theme=dark" x="46" y="65" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="106" y="65" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=ts&amp;theme=dark" x="46" y="125" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=bash&amp;theme=dark" x="106" y="125" width="48" height="48"/>
+
+  <!-- Backend: 2 × 2 -->
+  <image href="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" x="246" y="65" width="48" height="48"/>
+  <image href="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" x="306" y="65" width="48" height="48"/>
+  <image href="https://go-skill-icons.vercel.app/api/icons?i=pydantic" x="246" y="125" width="48" height="48"/>
+  <image href="https://go-skill-icons.vercel.app/api/icons?i=alembic" x="306" y="125" width="48" height="48"/>
+
+  <!-- Frontend -->
+  <image href="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" x="416" y="95" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=react&amp;theme=dark" x="476" y="95" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" x="536" y="95" width="48" height="48"/>
+
+  <!-- DevOps & Cloud: 3 × 2 -->
+  <image href="https://skillicons.dev/icons?i=docker&amp;theme=dark" x="616" y="65" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" x="676" y="65" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" x="736" y="65" width="48" height="48"/>
+
+  <image href="https://skillicons.dev/icons?i=aws&amp;theme=dark" x="616" y="125" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=terraform&amp;theme=dark" x="676" y="125" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=linux&amp;theme=dark" x="736" y="125" width="48" height="48"/>
+
+  <!-- Tools: 3 × 2 -->
+  <image href="https://skillicons.dev/icons?i=git&amp;theme=dark" x="816" y="65" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=github&amp;theme=dark" x="876" y="65" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=vscode&amp;theme=dark" x="936" y="65" width="48" height="48"/>
+
+  <image href="https://skillicons.dev/icons?i=figma&amp;theme=dark" x="816" y="125" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=grafana&amp;theme=dark" x="876" y="125" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=elasticsearch&amp;theme=dark" x="936" y="125" width="48" height="48"/>
+</svg>
